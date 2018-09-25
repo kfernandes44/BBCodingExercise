@@ -1,0 +1,14 @@
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/bin/Debug/netcoreapp2.1/OrganizationAPI.deps.json
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/bin/Debug/netcoreapp2.1/OrganizationAPI.runtimeconfig.json
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/bin/Debug/netcoreapp2.1/OrganizationAPI.runtimeconfig.dev.json
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/bin/Debug/netcoreapp2.1/OrganizationAPI.dll
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/bin/Debug/netcoreapp2.1/OrganizationAPI.pdb
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.csprojAssemblyReference.cache
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.csproj.CoreCompileInputs.cache
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.RazorAssemblyInfo.cache
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.RazorAssemblyInfo.cs
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.AssemblyInfoInputs.cache
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.AssemblyInfo.cs
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.RazorTargetAssemblyInfo.cache
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.dll
+/Users/kody.fernandes/Development/BBCodingChallengeV2/OrganizationAPI/OrganizationAPI/obj/Debug/netcoreapp2.1/OrganizationAPI.pdb
